@@ -26,7 +26,7 @@ Welcome to my **personal portfolio website**, built to showcase my skills, proje
 | `JavaScript` | Interactivity |
 | `Font Awesome` | Icons |
 | `Google Fonts` | Typography |
-|`Animate On SYstem`| Scroll animation |
+|`Animate On System`| Scroll animation |
 
 ---
 
