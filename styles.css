@@ -383,10 +383,11 @@ body{
 }
 
 #projects .prj-container{
-    margin: 5% 5%;
     display: flex;
     flex-wrap: wrap;
     gap: 50px;
+    justify-content: center;
+    margin-top: 5%;
 }
 
 #projects .prj-container .prj_image{
